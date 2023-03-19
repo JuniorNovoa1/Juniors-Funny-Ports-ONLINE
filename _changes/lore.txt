@@ -1,0 +1,3 @@
+mods/data/lore/lore-hard.json
+mods/songs/lore/Voices.ogg
+mods/songs/lore/Inst.ogg

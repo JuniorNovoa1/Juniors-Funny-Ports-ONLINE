@@ -1,0 +1,3 @@
+mods/data/wireframe/wireframe.json
+mods/songs/wireframe/Voices.ogg
+mods/songs/wireframe/Inst.ogg

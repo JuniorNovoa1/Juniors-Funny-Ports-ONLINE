@@ -1,0 +1,3 @@
+mods/data/apple-leak/apple-leak.json
+mods/songs/apple-leak/Voices.ogg
+mods/songs/apple-leak/Inst.ogg

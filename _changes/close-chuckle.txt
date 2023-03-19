@@ -1,0 +1,3 @@
+mods/data/close-chuckle/close-chuckle.json
+mods/songs/close-chuckle/Voices.ogg
+mods/songs/close-chuckle/Inst.ogg

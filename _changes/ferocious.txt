@@ -1,0 +1,3 @@
+mods/data/ferocious/ferocious.json
+mods/songs/ferocious/Voices.ogg
+mods/songs/ferocious/Inst.ogg
