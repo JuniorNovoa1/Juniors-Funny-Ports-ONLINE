@@ -1,1 +1,1 @@
-mods/customCategories/Juniors-Ports.json
+mods/customCategories/junior-ports.json
