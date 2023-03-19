@@ -8,6 +8,8 @@ mods/images/characters/main/wireframe/tunnel_bf.png
 mods/images/characters/main/wireframe/tunnel_bf.xml
 mods/images/characters/main/wireframe/tunnel_chase_dave.png
 mods/images/characters/main/wireframe/tunnel_chase_dave.xml
+mods/images/characters/main/wireframe/badai.png
+mods/images/characters/main/wireframe/badai.xml
 mods/scripts/horrific shits.lua
 mods/scripts/camera follow update.lua
 mods/scripts/ramShits.lua
