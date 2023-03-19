@@ -1,0 +1,22 @@
+mods/data/disruption/disruption.json
+mods/data/disruption/script.lua
+mods/characters/bambi-piss-3d.json
+mods/stages/disruption.json
+mods/stages/disruption.lua
+mods/images/characters/main/bambi_pissyboy.png
+mods/images/characters/main/bambi_pissyboy.xml
+mods/scripts/horrific shits.lua
+mods/scripts/camera follow update.lua
+mods/scripts/ramShits.lua
+mods/scripts/huds.lua
+mods/scripts/gameover.lua
+mods/scripts/offsets.lua
+mods/scripts/credits.lua
+mods/images/main/disruptor.png
+mods/fonts/comic.ttf
+mods/images/daveHealth.png
+mods/images/icons/missing.png
+mods/songs/disruption/Voices.ogg
+mods/songs/disruption/voices.ogg
+mods/songs/disruption/Inst.ogg
+mods/songs/disruption/inst.ogg

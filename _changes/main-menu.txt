@@ -1,0 +1,10 @@
+mods/scripts/horrific shits.lua
+mods/scripts/camera follow update.lua
+mods/scripts/ramShits.lua
+mods/scripts/huds.lua
+mods/scripts/gameover.lua
+mods/scripts/offsets.lua
+mods/scripts/credits.lua
+mods/fonts/comic.ttf
+mods/images/daveHealth.png
+mods/images/icons/missing.png

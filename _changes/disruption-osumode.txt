@@ -1,0 +1,16 @@
+mods/data/disruption/disruption.json
+mods/data/disruption/script.lua
+mods/stages/disruption.json
+mods/stages/disruption.lua
+mods/scripts/horrific shits.lua
+mods/scripts/camera follow update.lua
+mods/scripts/ramShits.lua
+mods/scripts/huds.lua
+mods/scripts/gameover.lua
+mods/scripts/offsets.lua
+mods/scripts/credits.lua
+mods/fonts/comic.ttf
+mods/songs/disruption/Voices.ogg
+mods/songs/disruption/voices.ogg
+mods/songs/disruption/Inst.ogg
+mods/songs/disruption/inst.ogg

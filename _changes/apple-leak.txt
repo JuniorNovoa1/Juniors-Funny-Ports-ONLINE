@@ -1,3 +1,70 @@
 mods/data/apple-leak/apple-leak.json
+mods/data/apple-leak/events.json
+mods/characters/fat-bandu-3d.json
+mods/images/characters/appleLeak/fat bandu 25.png
+mods/images/characters/appleLeak/fat bandu 25.xml
+mods/characters/gary.json
+mods/images/characters/appleLeak/gary_but_awful.png
+mods/images/characters/appleLeak/gary_but_awful.xml
+mods/characters/3d-bambi-leak.json
+mods/images/characters/appleLeak/cheating_bambi.png
+mods/images/characters/appleLeak/cheating_bambi.xml
+mods/characters/th1ft.json
+mods/images/characters/appleLeak/th1ft.png
+mods/images/characters/appleLeak/th1ft.xml
+mods/characters/boyfranon.json
+mods/images/characters/appleLeak/boyfranon.png
+mods/images/characters/appleLeak/boyfranon.xml
+mods/characters/th1ft-monster.json
+mods/images/characters/appleLeak/cancer theft.png
+mods/images/characters/appleLeak/cancer theft.xml
+mods/characters/bandu-trolled.json
+mods/images/characters/appleLeak/trolledbandu.png
+mods/images/characters/appleLeak/trolledbandu.xml
+mods/characters/bf-flipped.json
+mods/characters/sammy.json
+mods/images/characters/appleLeak/OGSammy.png
+mods/images/characters/appleLeak/OGSammy.xml
+mods/characters/duelExpunged.json
+mods/images/characters/appleLeak/duelspunged.png
+mods/images/characters/appleLeak/duelspunged.xml
+mods/characters/3d-bf-shoulder.json
+mods/images/characters/shared/shoulder_bf.png
+mods/images/characters/shared/shoulder_bf.xml
+mods/characters/3d-bambi-leak-finale.json
+mods/images/characters/appleLeak/dookie/doodoo leak.png
+mods/images/characters/appleLeak/dookie/doodoo leak.xml
+mods/data/apple-leak/script.lua
+mods/characters/fat-bandu.json
+mods/stages/appleLeak.json
+mods/stages/appleLeak.lua
+mods/images/characters/appleLeak/fat_bandu.png
+mods/images/characters/appleLeak/fat_bandu.xml
+mods/scripts/horrific shits.lua
+mods/scripts/camera follow update.lua
+mods/scripts/ramShits.lua
+mods/scripts/huds.lua
+mods/scripts/gameover.lua
+mods/scripts/offsets.lua
+mods/scripts/credits.lua
+mods/images/appleLeak/cave/portal.png
+mods/images/appleLeak/th1ft_room.png
+mods/images/appleLeak/r1.png
+mods/images/appleLeak/r2.png
+mods/images/appleLeak/gary_leak.png
+mods/images/appleLeak/gas_station.png
+mods/images/appleLeak/wavyApplecore.png
+mods/images/characters/appleLeak/jamboul.png
+mods/images/characters/appleLeak/jamboul.xml
+mods/images/appleLeak/DICKmaster.png
+mods/images/appleLeak/trolled/bgthing.png
+mods/images/appleLeak/trolled/bg2.png
+mods/images/appleLeak/trolled/bg1.png
+mods/images/appleLeak/funkipedia.png
+mods/fonts/comic.ttf
+mods/images/daveHealth.png
+mods/images/icons/missing.png
 mods/songs/apple-leak/Voices.ogg
+mods/songs/apple-leak/voices.ogg
 mods/songs/apple-leak/Inst.ogg
+mods/songs/apple-leak/inst.ogg

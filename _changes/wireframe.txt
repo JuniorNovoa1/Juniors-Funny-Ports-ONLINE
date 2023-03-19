@@ -1,3 +1,26 @@
 mods/data/wireframe/wireframe.json
-mods/songs/wireframe/Voices.ogg
+mods/data/wireframe/script.lua
+mods/characters/tunnel-bf.json
+mods/characters/tunnel-dave.json
+mods/stages/red-tunnel.json
+mods/stages/red-tunnel.lua
+mods/images/characters/main/wireframe/tunnel_bf.png
+mods/images/characters/main/wireframe/tunnel_bf.xml
+mods/images/characters/main/wireframe/tunnel_chase_dave.png
+mods/images/characters/main/wireframe/tunnel_chase_dave.xml
+mods/scripts/horrific shits.lua
+mods/scripts/camera follow update.lua
+mods/scripts/ramShits.lua
+mods/scripts/huds.lua
+mods/scripts/gameover.lua
+mods/scripts/offsets.lua
+mods/scripts/credits.lua
+mods/images/main/wireframe/redTunnel.png
+mods/images/main/wireframe/redTunnel.xml
+mods/images/main/wireframe/pissBoy.png
+mods/images/main/wireframe/pissBoy.xml
+mods/fonts/comic.ttf
+mods/images/daveHealth.png
+mods/images/icons/missing.png
 mods/songs/wireframe/Inst.ogg
+mods/songs/wireframe/inst.ogg

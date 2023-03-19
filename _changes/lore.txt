@@ -1,3 +1,36 @@
+mods/data/lore/lore.json
+mods/data/lore/lore-easy.json
+mods/data/lore/events.json
+mods/characters/policenew.json
+mods/images/characters/policeguy.png
+mods/images/characters/policeguy.xml
 mods/data/lore/lore-hard.json
+mods/data/lore/script.lua
+mods/characters/vedplayable.json
+mods/characters/mack.json
+mods/characters/police-anims.json
+mods/stages/mack.json
+mods/stages/mack.lua
+mods/images/characters/vedplay.png
+mods/images/characters/vedplay.xml
+mods/images/characters/mack.png
+mods/images/characters/mack.xml
+mods/images/characters/police2.png
+mods/images/characters/police2.xml
+mods/scripts/horrific shits.lua
+mods/scripts/camera follow update.lua
+mods/scripts/ramShits.lua
+mods/scripts/huds.lua
+mods/scripts/gameover.lua
+mods/scripts/offsets.lua
+mods/scripts/credits.lua
+mods/images/boners/lore/lore_normal_bg_windowcolor.png
+mods/images/boners/lore/lore_normal_bg_window.png
+mods/images/boners/lore/lore_broken_bg.png
+mods/fonts/comic.ttf
+mods/images/daveHealth.png
+mods/images/icons/missing.png
 mods/songs/lore/Voices.ogg
+mods/songs/lore/voices.ogg
 mods/songs/lore/Inst.ogg
+mods/songs/lore/inst.ogg
