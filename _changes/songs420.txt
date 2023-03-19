@@ -1,1 +1,1 @@
-mods/customCategories/junior-ports.json
+mods/weeks/a.json
