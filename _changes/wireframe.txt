@@ -2,6 +2,7 @@ mods/data/wireframe/wireframe.json
 mods/data/wireframe/script.lua
 mods/characters/tunnel-bf.json
 mods/characters/tunnel-dave.json
+mods/characters/badai.json
 mods/stages/red-tunnel.json
 mods/stages/red-tunnel.lua
 mods/images/characters/main/wireframe/tunnel_bf.png
